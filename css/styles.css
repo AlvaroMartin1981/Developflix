@@ -16,3 +16,28 @@ h2 {
 }
 
 
+body {
+  font-family: Arial, sans-serif;
+}
+
+.genero-container {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  background-color: #f8f8f8;
+}
+
+.genero {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+
+}
+
+.pelicula {
+  width: 200px;
+}
+
+.pelicula img {
+  width: 100%;
+}
